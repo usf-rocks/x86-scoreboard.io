@@ -1,5 +1,13 @@
 ## Welcome to Live Scoreboard!
 
+### Example Reports
+ - [err:gradle_failed](01FAIL.html)
+ - [graded (OOM errors)](02OOM.html)
+ - [graded (Time out)](03TLE.html)
+ - [graded ('Hint')](04HINT.html)
+ - [graded (100%)](05DONE.html)
+
+
 ### Links to Lab Scoreboard
 
 - [Lab 00](lab00-status.html)
