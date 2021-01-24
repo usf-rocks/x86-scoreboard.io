@@ -1,4 +1,4 @@
-## Welcome to Live Scoreboard!
+## You can access CS686,CS486 Scoreboards here
 
 ### Example Reports
  - [err:gradle_failed](01FAIL.html)
